@@ -1,0 +1,40 @@
+# CMake specific files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Build directories
+/build/
+out/
+bin/
+
+# IDE or Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Compiler output files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+#Etc
+CMakePresets.json
+.cache/
+!Makefile
